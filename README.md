@@ -32,7 +32,7 @@ Given a MxN matrix of cells where each element can either be 0 or 1, the shortes
 
   - instruction consists of 2 lines:
 
-    1. <trace/count> <algorithm> <up/down>
+    1. <trace/count> <.algorithm> <up/down>
        - trace outputs a trace of algorithm's sorting
        - algorithms:
          - `insert` - snsertion sort
