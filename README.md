@@ -10,7 +10,7 @@ List of elements Elt.java
 
 ### Graph with weights: GRPH.java
 
-Weighted graph with implemented Bellman-Ford algorithm. Graph is initialized with number of vertices `int verticesCount`. Edges are added with method `void addEdge(int from, int to, int cost);` . Method `void printShortestDistsFrom(int from);` uses Bellman-Ford algorithm to find the cheapest paths from vertex *from* to all other vertices. The price is displayed for every route.
+Weighted graph with implemented Bellman-Ford algorithm. Graph is initialized with number of vertices `int verticesCount`. Edges are added with method `void addEdge(int from, int to, int cost);` . Method `void printShortestDistsFrom(int from);` uses Bellman-Ford algorithm to find the cheapest paths from vertex *from* to all other vertices. The prices are displayed for every route.
 
 *Negative weights are allowed.*
 
